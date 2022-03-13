@@ -9,7 +9,7 @@ echo ========================================
 
 install_options(){
     echo "Please select your installation option:"
-    echo "[1] Full Fresh Faliactyl Install (Dependercies, Files, Configuration)"
+    echo "[1] Full Fresh Faliactyl Install (Dependencies, Files, Configuration)"
     echo "[2] Install the Dependencies."
     echo "[3] Install the Files."
     echo "[4] Configure Settings."
